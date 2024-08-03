@@ -11,7 +11,7 @@ const Skills = () => {
         <SkillsInput skill="Copywriting" />
         <SkillsInput skill="SEO Writing" />
         <SkillsInput skill="Blog Writing" />
-        <SkillsInput skill="Technical Writing" />
+        <SkillsInput skill="Marketing" />
         <SkillsInput skill="Email Marketing" />
         <SkillsInput skill="Proofreading" />
         <SkillsInput skill="Editing" />

@@ -1,4 +1,4 @@
-import { FaEnvelope, FaMapMarkerAlt, FaPhoneAlt } from "react-icons/fa";
+import { FaEnvelope, FaLinkedin, FaPhoneAlt } from "react-icons/fa";
 import { SiInformatica } from "react-icons/si";
 import AddressCard from "./AddressCard";
 import Title from "./Title";
@@ -22,9 +22,9 @@ const About = () => {
         </p>
         <div className="mt-6 flex flex-col gap-4 md:flex-row justify-between md:gap-8">
           <AddressCard
-            title="Address"
-            subTitle="N113W14280 Wrenwood Dr, Germantown, WI 53022"
-            icon={<FaMapMarkerAlt />}
+            title="LinkedIn"
+            subTitle="Linkedin.com/in/victor-margulius"
+            icon={<FaLinkedin />}
           />
           <AddressCard
             title="Mobile Number"
@@ -33,7 +33,7 @@ const About = () => {
           />
           <AddressCard
             title="Email Address"
-            subTitle="vmargulius@comcast.net"
+            subTitle="vmargulius@gmail.com"
             icon={<FaEnvelope />}
           />
         </div>

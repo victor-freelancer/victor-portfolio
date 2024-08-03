@@ -17,9 +17,9 @@ const Banner = () => {
           Freelance Writer
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          Driven college student eager to kickstart a career through entry-level
-          positions, collaborate with professional co-workers, and build
-          character through hands-on experience.
+          Driven college student eager to leverage his writing skills to provide
+          exceptional personal content, build lasting client relationships, and
+          gain real-world experience in the freelancing industry.
         </p>
       </div>
     </div>

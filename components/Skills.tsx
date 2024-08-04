@@ -9,7 +9,6 @@ const Skills = () => {
       <div className="flex gap-4 flex-wrap">
         <SkillsInput skill="Content Writing" />
         <SkillsInput skill="Copywriting" />
-        <SkillsInput skill="SEO Writing" />
         <SkillsInput skill="Blog Writing" />
         <SkillsInput skill="Marketing" />
         <SkillsInput skill="Email Marketing" />

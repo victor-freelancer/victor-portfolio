@@ -23,17 +23,21 @@ const About = () => {
         <div className="mt-6 flex flex-col gap-4 md:flex-row justify-between md:gap-8">
           <AddressCard
             title="LinkedIn"
-            subTitle="Linkedin.com/in/victor-margulius"
+            subTitle={{
+              text: "Linkedin.com/in/victor-margulius",
+              url: "https://www.linkedin.com/in/victor-margulius",
+            }}
             icon={<FaLinkedin />}
           />
+
           <AddressCard
             title="Mobile Number"
-            subTitle="+1 603-339-6352"
+            subTitle={{ text: "+1 603-339-6352" }}
             icon={<FaPhoneAlt />}
           />
           <AddressCard
             title="Email Address"
-            subTitle="vmargulius@gmail.com"
+            subTitle={{ text: "vmargulius@gmail.com" }}
             icon={<FaEnvelope />}
           />
         </div>

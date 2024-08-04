@@ -14,7 +14,7 @@ const Contact = () => {
           in discussing your writing needs or if you have any questions about my
           services.
         </p>
-        <a href="mailto:vmargulius@comcast.net">
+        <a href="mailto:vmargulius@gmail.com">
           <button className="w-52 h-14 bg-gradient-to-r from-blue-600 via-blue-700 to-indigo-950 text-xl font-bold text-white rounded-lg hover:from-indigo-950 hover:to-blue-600 duration-300">
             Say Hello
           </button>

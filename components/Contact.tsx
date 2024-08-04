@@ -25,10 +25,6 @@ const Contact = () => {
           title="LinkedIn"
           link="https://www.linkedin.com/in/victor-margulius/"
         />
-        <SocialLink
-          title="Twitter"
-          link="https://twitter.com/victormargulius"
-        />
       </div>
     </div>
   );

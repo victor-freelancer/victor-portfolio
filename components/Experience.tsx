@@ -16,7 +16,7 @@ const Experience = () => {
         />
         <ExperienceCard
           title="Pick N Save, Germantown"
-          year="June 2023 - Aug 2023"
+          year="June 2021 - Aug 2021"
           profession="Produce Clerk"
           icon={<FaHammer />}
         />

@@ -33,13 +33,13 @@ const App = () => {
         />
         <ProjectCard
           title="Email Sample 1: Welcome Email"
-          subtitle="Hey [Subscriber]"
+          subtitle="Hey [Subscriber],"
           content="Welcome to the [Your Brand] family! We’re thrilled to have you on board. At [Your Brand], we are dedicated to [Your Brand’s mission and service] and bringing you superior service and peace of mind! As a valued subscriber, you’ll be the first to hear about our latest updates, select offers, and exclusive content."
           docUrl="https://docs.google.com/document/d/e/2PACX-1vQxxSG3rw55_AH9ua6CGqAmU9cjc-ovluELJi2o_1hmAx3mvo_ES1Rs1b4rwssvvuzT-soM-_5TCTmd/pub"
         />
         <ProjectCard
           title="Email Sample 2: Promotional Email"
-          subtitle="Hey [Subscriber]"
+          subtitle="Hey [Subscriber],"
           content="We’ve got something special just for you! For a limited time, enjoy an exclusive [%] discount off our [Your product/service]. Whether you’re looking to [Your benefit or feature of your product], now is the perfect time to make your move!"
           docUrl="https://docs.google.com/document/d/e/2PACX-1vRIo4B_K-NYwMQ_vX0174txTA-y8dDB1llqScW4Ihd0aTtI_ATLhvcPHBWfQlQiYt0ofodfbg4fO4mI/pub"
         />
